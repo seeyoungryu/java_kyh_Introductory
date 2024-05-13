@@ -13,5 +13,8 @@ public class Var1 {
         System.out.println(a);
         a = 50; //변수 값 변경 (기존 값 삭제)
         System.out.println(a);
+
+        int b;
+        b = 100;  //100 -> 리터럴
     }
 }

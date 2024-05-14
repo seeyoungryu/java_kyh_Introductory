@@ -1,4 +1,4 @@
-package basic.variable;
+package basic;
 
 public class Var1 {
 

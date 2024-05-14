@@ -8,5 +8,6 @@ public class NestedEx1 {
                 System.out.println(i + " * " + j + " = " + i * j);
             }
         }
+
     }
 }
